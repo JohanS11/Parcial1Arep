@@ -29,6 +29,11 @@
 
 3. **Execute the project with maven:**
 
+     ***Note***
+     
+     If you want to run this project locally you should change the url from the Client.java class
+     to "http://localhost:4567/parcial1"
+
     `mvn exec:java -Dexec.mainClass="edu.eci.arep.logic.Client" `
     
     now you can see a Post request maded from this client to a Heroku Server
