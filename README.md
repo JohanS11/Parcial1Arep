@@ -58,5 +58,5 @@
   
   ## License
   
-  This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/JohanS11/Lab3Arep/blob/master/LICENSE) file for more details.
+  This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/JohanS11/Parcial1Arep/blob/master/LICENSE) file for more details.
 
