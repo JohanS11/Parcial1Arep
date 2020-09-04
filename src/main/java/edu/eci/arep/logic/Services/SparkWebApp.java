@@ -21,6 +21,25 @@ public class SparkWebApp {
         port(getPort());
         get("/inputdata", (req, res) -> inputDataPage(req, res));
         get("/results", (req, res) -> resultsPage(req, res));
+        post("/parcial1",(req, response) -> {
+
+            response.status(200);
+            response.type("application/json");
+            LinkedList<Double> linkedList = new LinkedList<Double>();
+            Calculator calculator = new Calculator();
+            List arr = new ArrayList<Double>();
+            String [] data = req.body().split(",");
+
+            for (String datum : data) {
+                linkedList.addNodeRight(Double.parseDouble(datum));
+                arr.add(Double.parseDouble(datum));
+            }
+            double mean = calculator.calcMean(linkedList);
+            double sd = calculator.calcSum(linkedList);
+            arr = BubbleSort.sort(arr);
+            return JsonBuild.toJson(mean,sd,arr);
+        });
+
     }
 
     /**
