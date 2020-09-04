@@ -11,8 +11,18 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
 
+/**
+ * The type Client that makes a post Request to heroku server and returns a
+ * JsonObject with the response.
+ */
 public class Client {
 
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     * @throws IOException the io exception
+     */
     public static void main(String[] args) throws IOException {
         URL url = new URL("https://secret-spire-04197.herokuapp.com/parcial1");
 
