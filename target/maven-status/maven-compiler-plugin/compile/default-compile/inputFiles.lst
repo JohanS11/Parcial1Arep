@@ -1,6 +1,9 @@
-D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Calculator.java
-D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\LinkedList.java
-D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Node.java
-D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\SparkWebApp.java
-D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\IteratorImpl.java
-D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\ListException.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Model\Node.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Services\JsonBuild.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Model\LinkedList.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Services\ListException.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Services\SortAlgorithm\BubbleSort.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Model\IteratorImpl.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Services\SparkWebApp.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Client.java
+D:\Documents\2020-2\AREP\LABS\parcial\Parcial1\src\main\java\edu\eci\arep\logic\Services\Calculator.java

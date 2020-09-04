@@ -1,4 +1,4 @@
-package edu.eci.arep.logic.SortAlgorithm;
+package edu.eci.arep.logic.Services.SortAlgorithm;
 
 import java.util.List;
 

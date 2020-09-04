@@ -1,0 +1,9 @@
+edu\eci\arep\logic\Model\Node.class
+edu\eci\arep\logic\Services\Calculator.class
+edu\eci\arep\logic\Services\ListException.class
+edu\eci\arep\logic\Client.class
+edu\eci\arep\logic\Model\LinkedList.class
+edu\eci\arep\logic\Services\JsonBuild.class
+edu\eci\arep\logic\Model\IteratorImpl.class
+edu\eci\arep\logic\Services\SortAlgorithm\BubbleSort.class
+edu\eci\arep\logic\Services\SparkWebApp.class

@@ -1,15 +1,12 @@
-package edu.eci.arep.logic;
+package edu.eci.arep.logic.Services;
 import edu.eci.arep.logic.Model.LinkedList;
-import edu.eci.arep.logic.Services.Calculator;
-import edu.eci.arep.logic.Services.JsonBuild;
-import edu.eci.arep.logic.SortAlgorithm.BubbleSort;
+import edu.eci.arep.logic.Services.SortAlgorithm.BubbleSort;
 import org.json.JSONObject;
 import spark.Request;
 import spark.Response;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.regex.Pattern;
 
 import static spark.Spark.*;
 
